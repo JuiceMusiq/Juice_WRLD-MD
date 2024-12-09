@@ -44,10 +44,10 @@
 # NB:
 *If you're experiencing sleeping problems on panels, go to `Startup` then change `bot js file` from `index.js` to `start.js` then restart the bot, or you can simply just use session id and `start.js` as the bot js file*
 
-<a href="https://ibb.co/b6pJgdt"><img src="https://i.ibb.co/RgLypH8/IMG-20241210_000132.jpg" alt="IMG-20241210_000132" border="0"></a>
+<a href="https://ibb.co/smkv8Br"><img src="https://ibb.co/smkv8Br/IMG-20241210_000132.jpg" alt="IMG-20241210_000132" border="0"></a>
 
 
-<a href="https://ibb.co/tmkV1QK"><img src="https://i.ibb.co/7Y8s0jC/IMG-20241210_000132.jpg" alt="IMG-20241210_000132" border="0"></a>
+<a href="https://ibb.co/smkv8Br"><img src="https://ibb.co/smkv8Brc/IMG-20241210_000132.jpg" alt="IMG-20241210_000132" border="0"></a>
 
   
 ## 🛠️ `YNW_JUICE INSTALATION`
