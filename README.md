@@ -3,8 +3,8 @@
 <h1 align="center"> Juice_WRLD 3.2.6 </h1>
 
 <p align="center">
-  <a href="https://github.com/Dark-Xploit/XPLOADER-BOT">
-    <img alt="xploader docs" height="400" src="https://i.ibb.co/DRW8wCV/Xploader4.jpg">
+  <a href="https://github.com/BlessingsAlick/Juice_WRLD-MD">
+    <img alt="xploader docs" height="400" src="https://i.ibb.co/DRW8wCV/20241210_000132.jpg">
   </a>
 </p>
     
@@ -13,17 +13,17 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/XPLOADER-BOT-skyblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/JUICE_WRLD-MD-skyblue?style=for-the-badge&logo=telegram"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER-BOT?&style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Dark-Xploit/XPLOADER-BOT?style=social"></a>
-<a href="https://github.com/Dark-Xploit/XPLOADER-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Dark-Xploit/XPLOADER-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Dark-Xploit/XPLOADER-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BlessingsAlick/Juice_WRLD-MD?&style=social"></a>
+<a href="https://github.com/BlessingsAlick/Juice_WRLD-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/BlessingsAlick/Juice_WRLD-MD?style=social"></a>
+<a href="https://github.com/BlessingsAlick/Juice_WRLD-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BlessingsAlick/Juice_WRLD-MD?label=Watching&style=social"></a>
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Dark-Xploit}/count.svg" alt="XPLOADER-BOT:: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{BlessingsAlick}/count.svg" alt="Juice_WRLD-MD:: Visitor's Count" /></p>
 
 
-<h3>XPLOADER STATS</h3>
+<h3> STATS </h3>
 
 <p align="center">
 <a href="https://github.com/Dark-Xploit/XPLOADER-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Xploit/XPLOADER-BOT?color=orange&style=flat-square"></a>
@@ -44,10 +44,10 @@
 # NB:
 *If you're experiencing sleeping problems on panels, go to `Startup` then change `bot js file` from `index.js` to `start.js` then restart the bot, or you can simply just use session id and `start.js` as the bot js file*
 
-<a href="https://ibb.co/b6pJgdt"><img src="https://i.ibb.co/RgLypH8/IMG-20241124-170538.jpg" alt="IMG-20241124-170538" border="0"></a>
+<a href="https://ibb.co/b6pJgdt"><img src="https://i.ibb.co/RgLypH8/IMG-20241210_000132.jpg" alt="IMG-20241210_000132" border="0"></a>
 
 
-<a href="https://ibb.co/tmkV1QK"><img src="https://i.ibb.co/7Y8s0jC/IMG-20241124-170618.jpg" alt="IMG-20241124-170618" border="0"></a>
+<a href="https://ibb.co/tmkV1QK"><img src="https://i.ibb.co/7Y8s0jC/IMG-20241210_000132.jpg" alt="IMG-20241210_000132" border="0"></a>
 
   
 ## 🛠️ `YNW_JUICE INSTALATION`
@@ -103,7 +103,7 @@
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search Xploader-bot, and connect.
+* Search Juice_WRLD, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -149,8 +149,8 @@
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/<your gitHub Username>/XPLOADER-BOT.git
-cd XPLOADER-BOT
+git clone https://github.com/<your gitHub Username>/BlessingsAlick.git
+cd Juice_WRLD-MD
 npm start
 ```
 
@@ -165,8 +165,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/<your-gitHub-Username>/XPLOADER-BOT
-cd XPLOADER-BOT
+git clone https://github.com/<your-gitHub-Username>/BlessingsAlick
+cd Juice_WRLD-MD
 npm install
 npm start
 ```
@@ -195,17 +195,17 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 </p>
 
 ##
-* Need help? please create an <a href="https://github.com/Dark-Xploit/XPLOADER-BOT/issues">issue</a></p>
+* Need help? please create an <a href="https://github.com/BlessingsAlick/Juice_WRLD-MD/issues">issue</a></p>
 
 ##
-- Star ⭐ this repository if you like Xploader Bot.
-- If any problem, then [`Whatsapp Me Here`](https://wa.me/254754783972)
+- Star ⭐ this repository if you like Juice wrld Bot.
+- If any problem, then [`Whatsapp Me Here`](https://wa.me/263776758808)
 
 ##
 <h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
 </h2>
 
-- *`XPLOADER BOT` is not affiliated with `WhatsApp Inc`.*
+- *`JuiceWRLD BOT` is not affiliated with `WhatsApp Inc`.*
 - *Misusing the bot may result in account banning.*
 - *Use at your own risk.*
 
