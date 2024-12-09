@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/BlessingsAlick/Juice_WRLD-MD">
-    <img alt="xploader docs" height="400" src="https://i.ibb.co/DRW8wCV/IMG-20241210_000132.jpg">
+    <img alt="Juice wrld docs"height="400"src="[/]https://ibb.co/smkv8Br/IMG-20241210_000132.jpg">
   </a>
 </p>
     
