@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/BlessingsAlick/Juice_WRLD-MD">
-    <img alt="xploader docs" height="400" src="https://i.ibb.co/DRW8wCV/20241210_000132.jpg">
+    <img alt="xploader docs" height="400" src="https://i.ibb.co/DRW8wCV/IMG-20241210_000132.jpg">
   </a>
 </p>
     
@@ -13,10 +13,10 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/JUICE_WRLD-MD-skyblue?style=for-the-badge&logo=telegram"></a>
+<a href="https://github.com/BlessingsAlick"><img title="Author" src="https://img.shields.io/badge/JUICE_WRLD-MD-skyblue?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Dark-Xploit/XPLOADER-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BlessingsAlick/Juice_WRLD-MD?&style=social"></a>
+<a href="https://github.com/BlessingsAlick/Juice_WRLD-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/BlessingsAlick/Juice_WRLD-MD?&style=social"></a>
 <a href="https://github.com/BlessingsAlick/Juice_WRLD-MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/BlessingsAlick/Juice_WRLD-MD?style=social"></a>
 <a href="https://github.com/BlessingsAlick/Juice_WRLD-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/BlessingsAlick/Juice_WRLD-MD?label=Watching&style=social"></a>
 </p>
